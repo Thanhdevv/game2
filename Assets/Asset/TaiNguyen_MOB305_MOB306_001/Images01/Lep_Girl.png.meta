@@ -1,0 +1,1290 @@
+fileFormatVersion: 2
+guid: ad0b23da53a65114b82c843e283c4a2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6988781187580422095
+    second: Lep_Girl_0
+  - first:
+      213: 607852930128870082
+    second: Lep_Girl_1
+  - first:
+      213: -6025387813814561131
+    second: Lep_Girl_2
+  - first:
+      213: 6702762929040479370
+    second: Lep_Girl_3
+  - first:
+      213: -7732778041595985590
+    second: Lep_Girl_4
+  - first:
+      213: 2928594586038212841
+    second: Lep_Girl_5
+  - first:
+      213: -7898336205503234497
+    second: Lep_Girl_6
+  - first:
+      213: -4199513378144327166
+    second: Lep_Girl_7
+  - first:
+      213: 2894916099096479769
+    second: Lep_Girl_8
+  - first:
+      213: -5754118779408039565
+    second: Lep_Girl_9
+  - first:
+      213: -9064864863996330344
+    second: Lep_Girl_10
+  - first:
+      213: -6453521732298970483
+    second: Lep_Girl_11
+  - first:
+      213: 2342161213836201437
+    second: Lep_Girl_12
+  - first:
+      213: 1381563456146888761
+    second: Lep_Girl_13
+  - first:
+      213: -5521182030804347310
+    second: Lep_Girl_14
+  - first:
+      213: -2661501947873198261
+    second: Lep_Girl_15
+  - first:
+      213: 5553063570462098018
+    second: Lep_Girl_16
+  - first:
+      213: -2050599126739440680
+    second: Lep_Girl_17
+  - first:
+      213: -7706496018156078754
+    second: Lep_Girl_18
+  - first:
+      213: 1321992966912130633
+    second: Lep_Girl_19
+  - first:
+      213: 8438912896750607594
+    second: Lep_Girl_20
+  - first:
+      213: -3402894965445566994
+    second: Lep_Girl_21
+  - first:
+      213: 4356289684686822515
+    second: Lep_Girl_22
+  - first:
+      213: 2979363982094424427
+    second: Lep_Girl_23
+  - first:
+      213: -8629910785387512163
+    second: Lep_Girl_24
+  - first:
+      213: -9149752252858680288
+    second: Lep_Girl_25
+  - first:
+      213: -7396428560887937284
+    second: Lep_Girl_26
+  - first:
+      213: -7144188432905181983
+    second: Lep_Girl_27
+  - first:
+      213: 1474596491519871956
+    second: Lep_Girl_28
+  - first:
+      213: -2791359393628591322
+    second: Lep_Girl_29
+  - first:
+      213: 3229262784739628098
+    second: Lep_Girl_30
+  - first:
+      213: -7192491911210661101
+    second: Lep_Girl_31
+  - first:
+      213: -8528201697302372873
+    second: Lep_Girl_32
+  - first:
+      213: -6080120701827874031
+    second: Lep_Girl_33
+  - first:
+      213: -7344021786629838959
+    second: Lep_Girl_34
+  - first:
+      213: -8056171417876769677
+    second: Lep_Girl_35
+  - first:
+      213: -8941915184800005960
+    second: Lep_Girl_36
+  - first:
+      213: 8121076222314746083
+    second: Lep_Girl_37
+  - first:
+      213: 1281464713923569699
+    second: Lep_Girl_38
+  - first:
+      213: -3852486277779115216
+    second: Lep_Girl_39
+  - first:
+      213: 5531475696951560116
+    second: Lep_Girl_40
+  - first:
+      213: 2499369750258650032
+    second: Lep_Girl_41
+  - first:
+      213: 5951338358366183053
+    second: Lep_Girl_42
+  - first:
+      213: 3694162128092345188
+    second: Lep_Girl_43
+  - first:
+      213: -4356251805325996555
+    second: Lep_Girl_44
+  - first:
+      213: -2331200726537125440
+    second: Lep_Girl_45
+  - first:
+      213: -8039909647697586807
+    second: Lep_Girl_46
+  - first:
+      213: 5304058507313480618
+    second: Lep_Girl_47
+  - first:
+      213: 5759761831284556437
+    second: Lep_Girl_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lep_Girl_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 467
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138165db98cd20f90800000000000000
+      internalID: -6988781187580422095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 475
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caf208f4078f6800800000000000000
+      internalID: 607852930128870082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 471
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5969d9b05b5816ca0800000000000000
+      internalID: -6025387813814561131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 473
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a845d170f5ff40d50800000000000000
+      internalID: 6702762929040479370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 477
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a410bb75757afa490800000000000000
+      internalID: -7732778041595985590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 445
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e890f7724574a820800000000000000
+      internalID: 2928594586038212841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 429
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e7f5a7119736290800000000000000
+      internalID: -7898336205503234497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 435
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ae43225d458b5c0800000000000000
+      internalID: -4199513378144327166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 435
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918843daadecc2820800000000000000
+      internalID: 2894916099096479769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 437
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371cafde4734520b0800000000000000
+      internalID: -5754118779408039565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 393
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e34941f61233280800000000000000
+      internalID: -9064864863996330344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 399
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a6e0c3d2c7076a0800000000000000
+      internalID: -6453521732298970483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 393
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd8765f637018020800000000000000
+      internalID: 2342161213836201437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 401
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938db4eb4ac4c2310800000000000000
+      internalID: 1381563456146888761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25613a90232d063b0800000000000000
+      internalID: -5521182030804347310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 357
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ff1046412701bd0800000000000000
+      internalID: -2661501947873198261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 353
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624e8c55e1701d40800000000000000
+      internalID: 5553063570462098018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 361
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db28f175feca83e0800000000000000
+      internalID: -2050599126739440680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 369
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5938d6c3b60d0590800000000000000
+      internalID: -7706496018156078754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 337
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ebc546999a85210800000000000000
+      internalID: 1321992966912130633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec584d719a0d1570800000000000000
+      internalID: 8438912896750607594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 317
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd6a8ee0d76c0d0800000000000000
+      internalID: -3402894965445566994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 315
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd47a3366a47c30800000000000000
+      internalID: 4356289684686822515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 322
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69d451a1c3d85920800000000000000
+      internalID: 2979363982094424427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e3aa92dd56c3880800000000000000
+      internalID: -8629910785387512163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 279
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3781bdcc850180800000000000000
+      internalID: -9149752252858680288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 279
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf688bd696b9a5990800000000000000
+      internalID: -7396428560887937284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 283
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e46b38c87ebadc90800000000000000
+      internalID: -7144188432905181983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db441042b1d67410800000000000000
+      internalID: 1474596491519871956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 243
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b6156bb691349d0800000000000000
+      internalID: -2791359393628591322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 243
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2445bc2b465a0dc20800000000000000
+      internalID: 3229262784739628098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 247
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b0b66d6b22f2c90800000000000000
+      internalID: -7192491911210661101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd986b9dbdb5a980800000000000000
+      internalID: -8528201697302372873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 207
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1130d008f621f9ba0800000000000000
+      internalID: -6080120701827874031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 207
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197e239681bc41a90800000000000000
+      internalID: -7344021786629838959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 211
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374dcc367cab23090800000000000000
+      internalID: -8056171417876769677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00356048fe7e380800000000000000
+      internalID: -8941915184800005960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 171
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e011f00ccbd3b070800000000000000
+      internalID: 8121076222314746083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 173
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328ac992e5da8c110800000000000000
+      internalID: 1281464713923569699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 175
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b8e64428398ac0800000000000000
+      internalID: -3852486277779115216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b70180e6dfb3cc40800000000000000
+      internalID: 5531475696951560116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 137
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb068eab8b8fa220800000000000000
+      internalID: 2499369750258650032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 139
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e929494b6679250800000000000000
+      internalID: 5951338358366183053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 141
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46335ab02ec444330800000000000000
+      internalID: 3694162128092345188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc36f301c7b83c0800000000000000
+      internalID: -4356251805325996555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 99
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c14f9a5a49e5afd0800000000000000
+      internalID: -2331200726537125440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 98
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985dfbec5c08c6090800000000000000
+      internalID: -8039909647697586807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 98
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa30f4c3c1dcb9940800000000000000
+      internalID: 5304058507313480618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Girl_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 61
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592c1987ed8ceef40800000000000000
+      internalID: 5759761831284556437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
